@@ -1,0 +1,1 @@
+In this Python project I imported a csv file using Python, manipulated the dataset using Pandas, and visualized the data with scatter plots and correlation matrices using MatPlotLib and Seaborn respectively.
